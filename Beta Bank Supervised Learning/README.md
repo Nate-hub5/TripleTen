@@ -9,38 +9,37 @@ Beta Bank is experiencing gradual customer attrition, and retaining existing cus
 **Introduction**
 * Problem Description
 * Project Goals
-* Initialization
+  
+**Initialization**
+* Importing Libraries
+* Setting Up the Environment
 
-Importing Libraries
-Setting Up the Environment
-Data Exploration and Preprocessing
+**Data Exploration and Preprocessing**
+* Loading the Dataset**
+* Checking for Missing Values
+* Adjusting Data Types
+* Dropping Irrelevant Columns
+  
+**Class Imbalance Analysis**
+* Examining Class Distribution
+* Training Initial Model
+  
+**Improving Model Performance**
+* Addressing Class Imbalance (Oversampling, Undersampling, Class Weighting)
+* Comparing Performance of Methods
+  
+**Model Optimization**
+* Hyperparameter Tuning
+* Selecting the Best-Performing Model
+  
+**Model Evaluation and Testing**
+* Testing on Unseen Data
+* Performance Metrics and Generalization
 
-Loading the Dataset
-Checking for Missing Values
-Adjusting Data Types
-Dropping Irrelevant Columns
-Class Imbalance Analysis
-
-Examining Class Distribution
-Training Initial Model
-Improving Model Performance
-
-Addressing Class Imbalance (Oversampling, Undersampling, Class Weighting)
-Comparing Performance of Methods
-Model Optimization
-
-Experimenting with Algorithms
-Hyperparameter Tuning
-Selecting the Best-Performing Model
-Model Evaluation and Testing
-
-Testing on Unseen Data
-Performance Metrics and Generalization
-Conclusion
-
-Key Findings
-Recommendations for Customer Retention
-Future Steps
+**Conclusion**
+* Key Findings
+* Recommendations for Customer Retention
+* Future Steps
 
 
 # Project Instructions: 
