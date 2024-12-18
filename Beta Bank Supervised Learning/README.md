@@ -4,6 +4,45 @@ https://github.com/Nate-hub5/TripleTen/blob/main/Beta%20Bank%20Supervised%20Lear
 
 Beta Bank is experiencing gradual customer attrition, and retaining existing customers is a higher priority than acquiring new ones. Our goal is to predict whether a customer will leave the bank based on their past behavior, enabling proactive retention strategies.
 
+# Table of Contents
+
+**Introduction**
+* Problem Description
+* Project Goals
+* Initialization
+
+Importing Libraries
+Setting Up the Environment
+Data Exploration and Preprocessing
+
+Loading the Dataset
+Checking for Missing Values
+Adjusting Data Types
+Dropping Irrelevant Columns
+Class Imbalance Analysis
+
+Examining Class Distribution
+Training Initial Model
+Improving Model Performance
+
+Addressing Class Imbalance (Oversampling, Undersampling, Class Weighting)
+Comparing Performance of Methods
+Model Optimization
+
+Experimenting with Algorithms
+Hyperparameter Tuning
+Selecting the Best-Performing Model
+Model Evaluation and Testing
+
+Testing on Unseen Data
+Performance Metrics and Generalization
+Conclusion
+
+Key Findings
+Recommendations for Customer Retention
+Future Steps
+
+
 # Project Instructions: 
 
 **1.Initialization:** Set up the environment by importing the necessary libraries and preparing for analysis.
