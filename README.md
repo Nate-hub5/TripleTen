@@ -1,9 +1,9 @@
 These are some of my projects from the TripleTen Data Science course
 
-1. Beta Bank Supervised Learning project is looking at customer churn. We want to understand whether a customer will leave the bank based on each clients past behaviors.
+1. Beta Bank Supervised Learning Project: This project focuses on customer churn. The goal is to predict whether a customer will leave the bank based on their past behaviors.
 
-2. Ice Video Game EDA was a simple EDA that looked at video games over a period of time. Our goal was to help plan the 2017 campaign for the company.
+2. Ice Video Game EDA: A simple exploratory data analysis project examining video games over time. The goal was to help plan the company's 2017 campaign.
 
-3. Interconnect Final Project is looking at customer churn. The goal is to find clients that plan on leaving, and offer promotional codes / offering special plans.
+3. Interconnect Final Project: This project focuses on customer churn. The aim is to identify clients likely to leave and offer them promotional codes or special plans.
 
-4. Machine Learning for Text is looking at movie reviews. We want to understand the positive from the negative reviews. 
+4. Machine Learning for Text: This project analyzes movie reviews to distinguish between positive and negative sentiments.
