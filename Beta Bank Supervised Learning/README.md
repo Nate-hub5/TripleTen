@@ -1,4 +1,6 @@
-# Problem Description:
+# Problem Description:       
+
+https://github.com/Nate-hub5/TripleTen/blob/main/Beta%20Bank%20Supervised%20Learning/Beta%20Bank%20Supervised%20Learning.ipynb 
 
 Beta Bank is experiencing gradual customer attrition, and retaining existing customers is a higher priority than acquiring new ones. Our goal is to predict whether a customer will leave the bank based on their past behavior, enabling proactive retention strategies.
 
